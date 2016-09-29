@@ -12,8 +12,10 @@ Azul final: #0074AE
 Morado claro: #662382
 Verde claro: #95c11e
 
-Equivalente a naranja oscuro - #2094C1 (Azul inicial, degradado fondo)
-Equivalente a naranja claro -   #33aedd (Azul inicial, degradado cuerpo)
+Color 1 (encabezado) - #2094C1 (Azul inicial, degradado fondo)
+Color 2 (navbar) -   #33aedd (Azul inicial, degradado cuerpo)
+Color 3 - #F3921C (Naranja)
+Color 4 (azul suave) - #64c1e6
 */
 
 @font-face
@@ -76,7 +78,7 @@ a
 a:hover
 {
     /*color:#fdc570;*/
-    color:#F3921C;
+    color:#64c1e6;
 }
 
 p
@@ -322,6 +324,7 @@ ul#footer li img
 
 #premios{
     text-align: center;
+    /*color: #F3921C;*/
     color: #F3921C;
     position: absolute;
     left: 0;
@@ -380,7 +383,7 @@ td{
     font-weight: 400;
     color: #fff;
     background-color: #64c1e6;
-/*    border: 5px solid #f6a668;*/
+/*    border: 5px solid #F3921C;*/
 }
 
 th{

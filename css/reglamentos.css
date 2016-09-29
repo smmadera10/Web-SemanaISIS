@@ -43,7 +43,7 @@
 }
 .ch-info {
 	position: absolute;
-	background: #36bdad;
+	background: #e3830d;
 	width: inherit;
 	height: inherit;
 	border-radius: 50%;
@@ -126,8 +126,8 @@
     background-image: url(../imagenes/premios-14.png);
 }
 .reglamento {
-    /*background-color: #4fd3bf;*/
-	background-color:#662382;
+    background-color: #F3921C;
+    /*background-color:#662382;*/
     text-align: center;
 }
 .tituloR{
@@ -171,7 +171,7 @@
 
 #reglamentos{
     text-align: center;
-    color: #4fd3bf;
+    color: #F3921C;
     position: absolute;
     left: 0;
     right: 0;

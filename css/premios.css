@@ -1,3 +1,6 @@
+/* Nuevo naranja: #F3921C
+   Viejo naranja: #f6a668 */
+
 .ch-grid {
 	margin: 20px 0 0 0;
 	padding: 0;
@@ -187,7 +190,7 @@
 
 #premios{
     text-align: center;
-    color: #f6a668;
+    color: #F3921C;
     position: absolute;
     left: 0;
     right: 0;
@@ -201,7 +204,7 @@
 
 #concursos{
     text-align: center;
-    color: #fdc570;
+    color: #F3921C;
     position: absolute;
     left: 0;
     right: 0;
@@ -222,7 +225,7 @@
 
 #talento {
     text-align: center;
-    color: #fdc570;
+    color: #F3921C;
     position: absolute;
     left: 0;
     right: 0;
