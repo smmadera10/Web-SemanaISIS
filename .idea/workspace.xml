@@ -8,22 +8,7 @@
     <bookmark url="file://$PROJECT_DIR$/css/style.css" line="82" mnemonic="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1279edad-f2e1-464c-acb2-8f0716d30735" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/logo_uniandes-27.png" afterPath="$PROJECT_DIR$/imagenes/logo_uniandes-27.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-11.png" afterPath="$PROJECT_DIR$/imagenes/premios-11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-12.png" afterPath="$PROJECT_DIR$/imagenes/premios-12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-15.png" afterPath="$PROJECT_DIR$/imagenes/premios-15.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-16.png" afterPath="$PROJECT_DIR$/imagenes/premios-16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-19.png" afterPath="$PROJECT_DIR$/imagenes/premios-19.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/premios-20.png" afterPath="$PROJECT_DIR$/imagenes/premios-20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actividades.html" afterPath="$PROJECT_DIR$/actividades.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cronograma.html" afterPath="$PROJECT_DIR$/cronograma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/premios.html" afterPath="$PROJECT_DIR$/premios.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reglamentos.html" afterPath="$PROJECT_DIR$/reglamentos.html" />
-    </list>
+    <list default="true" id="1279edad-f2e1-464c-acb2-8f0716d30735" name="Default" comment="" />
     <ignored path="SemanaISIS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -707,12 +692,12 @@
       <updated>1474997959088</updated>
       <workItem from="1474997961464" duration="29141000" />
       <workItem from="1475864368939" duration="9149000" />
-      <workItem from="1476081475785" duration="16339000" />
+      <workItem from="1476081475785" duration="16389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54629000" />
+    <option name="totallyTimeSpent" value="54679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1380" height="744" extended-state="1" />
