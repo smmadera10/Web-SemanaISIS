@@ -148,18 +148,19 @@ ul#footer
 #foot{
     width:100%;
     text-align: center;
-    position: fixed;
+    position: relative;
     bottom: 0;
+    clear:both;
     z-index: 22;
-/*    height: 70px;*/
+    /*height: 70px;*/
 }
 
-#feet{
-    background-color: #fff;
-    width: 400px;
-    margin: auto;
-    z-index: 22;
-}
+/*#feet{*/
+    /*background-color: #fff;*/
+    /*width: 400px;*/
+    /*margin: auto;*/
+    /*z-index: 22;*/
+/*}*/
 
 #feet2
 {
