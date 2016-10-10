@@ -1,4 +1,5 @@
-/*Códigos de color:
+/* (Nueva paleta de colores)
+Códigos de color:
 Naranja: #F3921C
 --Degradado Fondo--
 Azul inicial: #2094C1
@@ -13,7 +14,7 @@ Morado claro: #662382
 Verde claro: #95c11e
 
 Color 1 (encabezado) - #2094C1 (Azul inicial, degradado fondo)
-Color 2 (navbar) -   #33aedd (Azul inicial, degradado cuerpo)
+Color 2 (navbar) -   #33aedd
 Color 3 - #F3921C (Naranja)
 Color 4 (azul suave) - #64c1e6
 */
@@ -154,6 +155,16 @@ ul#footer
 #feet{
     background-color: #fff;
     width: 400px;
+    margin: auto;
+    z-index: 22;
+}
+
+#feet2
+{
+    /*background-color: #33aedd;*/
+    background-color:#2094C1;
+    color:white;
+    width: 100%;
     margin: auto;
     z-index: 22;
 }
@@ -382,7 +393,8 @@ td{
     font-size: 18;
     font-weight: 400;
     color: #fff;
-    background-color: #64c1e6;
+    background-color:#51bae1;
+    /*background-color: #64c1e6;*/
 /*    border: 5px solid #F3921C;*/
 }
 
@@ -394,7 +406,7 @@ th{
 }
 
 tr:hover, td:hover{
-    background-color: #fdc570;
+    background-color: #83CEE5;
 }
 
 tr:hover td{
@@ -463,3 +475,11 @@ hr
 .semana2 {
     width: 100%;
 }
+
+/*#footerS {*/
+    /*clear: both;*/
+    /*position: relative;*/
+    /*z-index: 10;*/
+    /*height: 3em;*/
+    /*margin-top: -3em;*/
+/*}*/
